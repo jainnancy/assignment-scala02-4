@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/IdeaProjects/assignment-scala02-04/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/TotalCommission.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/TotalCommission.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/CalculateCommission.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/CalculateCommission.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/Optimize.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/Optimize.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/AllValues.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala02-04/src/main/scala/edu/knoldus/AllValues.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 4 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 5 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/IdeaProjects/assignment-scala02-04/target[0m
